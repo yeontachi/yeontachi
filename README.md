@@ -9,4 +9,4 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=duswogur123)](https://solved.ac/duswogur123/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeontachi&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeontachi&layout=pie)](https://github.com/yeontachi/github-readme-stats)
