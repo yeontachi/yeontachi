@@ -7,6 +7,5 @@
 - 🧠 Blog: [blog](https://yeontachi.tistory.com/)
 - ✉️ Email: [yeonjjhh@gmail.com](mailto:yeonjjhh@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeontachi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=duswogur123)](https://solved.ac/duswogur123/)
