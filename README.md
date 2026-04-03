@@ -17,7 +17,7 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=duswogur123" alt="Solved.ac Profile" width="45%" />
   </a>
   
-  <br><br> <img src="https://github-readme-stats.vercel.app/api?username=본인깃허브아이디&amp;bg_color=000000&amp;title_color=ffffff&amp;text_color=cccccc&amp;icon_color=ffffff&amp;border_color=ffffff&amp;show_icons=true&amp;border_radius=15" alt="GitHub Stats" width="92%" />
+  <br><br> <img src="https://github-readme-stats.vercel.app/api?username=yeontachi&amp;bg_color=000000&amp;title_color=ffffff&amp;text_color=cccccc&amp;icon_color=ffffff&amp;border_color=ffffff&amp;show_icons=true&amp;border_radius=15" alt="GitHub Stats" width="92%" />
 </div>
 
 
