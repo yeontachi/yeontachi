@@ -4,9 +4,15 @@
 
 ### Tech Stack
 
-| Languages | Frameworks & Libraries |
-| :--- | :--- |
-| <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-000000?style=flat&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/CUDA-000000?style=flat&logo=nvidia&logoColor=white"/> | <img src="https://img.shields.io/badge/PyTorch-000000?style=flat&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-000000?style=flat&logo=opencv&logoColor=white"/> |
+#### Languages
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white&border=true"/> 
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white&border=true"/> 
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white&border=true"/> 
+<img src="https://img.shields.io/badge/CUDA-000000?style=for-the-badge&logo=nvidia&logoColor=white&border=true"/>
+
+#### Frameworks & Libraries
+<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white&border=true"/> 
+<img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=white&border=true"/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=duswogur123)](https://solved.ac/duswogur123/)
 
