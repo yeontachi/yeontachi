@@ -1,0 +1,35 @@
+<svg width="450" height="220" viewBox="0 0 450 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF9A9E" />
+      <stop offset="100%" stop-color="#FECFEF" />
+    </linearGradient>
+    </defs>
+
+  <rect width="450" height="220" rx="15" ry="15" fill="url(#bg-gradient)" />
+
+  <text x="30" y="50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#ffffff">
+    My Tech Stack
+  </text>
+
+  <line x1="30" y1="70" x2="420" y2="70" stroke="#ffffff" stroke-width="2" opacity="0.5" />
+
+  <text x="30" y="105" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#ffffff">
+    Languages
+  </text>
+  <text x="150" y="105" font-family="Arial, sans-serif" font-size="15" fill="#ffffff">
+    Python, C++, C, CUDA
+  </text>
+
+  <text x="30" y="155" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#ffffff">
+    Frameworks
+  </text>
+  <text x="150" y="155" font-family="Arial, sans-serif" font-size="15" fill="#ffffff">
+    PyTorch, OpenCV
+  </text>
+  
+  <text x="30" y="180" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#ffffff">
+    &amp; Libraries
+  </text>
+
+</svg>
