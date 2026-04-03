@@ -5,7 +5,9 @@
 <div align="center">
   <img src="./tech-stack.svg" alt="My Tech Stack Card" width="45%" />
   &nbsp; &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=duswogur123&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=ffffff&show_icons=true&border_radius=15" alt="GitHub Stats" width="45%" />
+  <a href="https://solved.ac/duswogur123">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=duswogur123" alt="Solved.ac Profile" width="45%" />
+  </a>
 </div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=duswogur123)](https://solved.ac/duswogur123/)
