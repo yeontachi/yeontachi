@@ -7,7 +7,7 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&height=180&section=header&text=Education&fontSize=25&desc=%5BBachelor%20of%20Science%5D%20Kwangwoon%20University%20-%20Computer%20Software%20%7C%20Expected%202027&descColor=cccccc&descSize=20&descAlignY=90" alt="Education" />
 </div>
 
-<br><br><br>
+<br>
 
 <div align="center">
   <img src="./tech-stack.svg" alt="My Tech Stack Card" width="45%" />
