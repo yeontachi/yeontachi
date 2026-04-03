@@ -5,7 +5,7 @@
 <br><br>
 
 <div align="center">
-  <h3>🎓 Education</h3>
+  <h2>🎓 Education</h2>
   
   <p>
     <b>[Bachelor of Science]</b> Kwangwoon University - Computer Software &nbsp;|&nbsp; <i>Expected 2027</i>
