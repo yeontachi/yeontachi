@@ -3,7 +3,7 @@
 </div>
 
 <div align="left">
-  <img src="./tech-stack.svg" alt="My Tech Stack Card" />
+  <img src="./tech-stack.svg" alt="My Tech Stack Card" width="45%" />
 </div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=duswogur123)](https://solved.ac/duswogur123/)
