@@ -8,7 +8,7 @@
   <h3>🎓 Education & 📬 Contact</h3>
   
   <p>
-    <b>[Education]</b> OO University - Computer Vision Research &nbsp;|&nbsp; <i>Expected 202X</i>
+    <b>[Education]</b> Kwangwoon University - Computer Software &nbsp;|&nbsp; <i>Expected 2027</i>
   </p>
   
   <br>
@@ -26,6 +26,8 @@
   </a>
 </div>
 
+<br><br>
+
 <div align="center">
   <img src="./tech-stack.svg" alt="My Tech Stack Card" width="45%" />
   &nbsp; &nbsp;
@@ -33,7 +35,5 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=duswogur123" alt="Solved.ac Profile" width="45%" />
   </a>
 </div>
-
-<br><br>
 
 
