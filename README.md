@@ -36,4 +36,18 @@
   </a>
 </div>
 
+<div>
+  <a href="mailto:yeonjjhh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://yeontachi.tistory.com/">
+    <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=velog&logoColor=white" alt="Blog"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/jae-hyuk-yeon-501b503ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
 
