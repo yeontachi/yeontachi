@@ -8,7 +8,7 @@
   <h3>🎓 Education & 📬 Contact</h3>
   
   <p>
-    <b>[Education]</b> Kwangwoon University - Computer Software &nbsp;|&nbsp; <i>Expected 2027</i>
+    <b>[Bachelor of Science]</b> Kwangwoon University - Computer Software &nbsp;|&nbsp; <i>Expected 2027</i>
   </p>
   
   <br>
