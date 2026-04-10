@@ -19,7 +19,7 @@
 
 <br><br>
 <div style="display: flex; flex-direction: row; align-items: center;">
-  <a href="https://github.com/SXXNHU/github-readme-stats"> 
+  <a href="https://github.com/yeontachi/github-readme-stats"> 
     <br>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeontachi&theme=transparent" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yeontachi&theme=transparent" />
