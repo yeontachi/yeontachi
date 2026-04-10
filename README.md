@@ -21,7 +21,7 @@
 
 <div align="center">
   <a href="https://github.com/SXXNHU/github-readme-stats"> 
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeontachi&theme=github" width="92%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeontachi&theme=transparent" width="92%" />
   </a>
 </div>
 
@@ -29,11 +29,11 @@
 
 <div align="center">
   <a href="https://github.com/SXXNHU/github-readme-stats"> 
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yeontachi&theme=github" width="45%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yeontachi&theme=transparent" width="45%" />
   </a>
   &nbsp; &nbsp;
   <a href="https://github.com/SXXNHU/github-readme-stats">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yeontachi&theme=github" width="45%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yeontachi&theme=transparent" width="45%" />
   </a>
 </div>
 
