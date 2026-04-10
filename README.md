@@ -19,7 +19,6 @@
   </a>
 </div>
 
-<br><br>
 
 <div align="center">
   <a href="https://github.com/SXXNHU/github-readme-stats"> 
@@ -27,7 +26,6 @@
   </a>
 </div>
 
-<br>
 
 <div align="center">
   <a href="https://github.com/SXXNHU/github-readme-stats"> 
@@ -39,7 +37,6 @@
   </a>
 </div>
 
-<br><br>
 
 <div align="center">
   <a href="mailto:yeonjjhh@gmail.com">
