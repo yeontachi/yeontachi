@@ -20,11 +20,6 @@
 </div>
 
 
-<div align="center">
-  <a href="https://github.com/SXXNHU/github-readme-stats"> 
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeontachi&theme=transparent" width="92%" />
-  </a>
-</div>
 
 
 <div align="center">
