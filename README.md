@@ -23,17 +23,6 @@
 
 
 <div align="center">
-  <a href="https://github.com/SXXNHU/github-readme-stats"> 
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yeontachi&theme=transparent" width="45%" />
-  </a>
-  &nbsp; &nbsp;
-  <a href="https://github.com/SXXNHU/github-readme-stats">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yeontachi&theme=transparent" width="45%" />
-  </a>
-</div>
-
-
-<div align="center">
   <a href="mailto:yeonjjhh@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
