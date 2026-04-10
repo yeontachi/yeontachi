@@ -18,7 +18,16 @@
 </div>
 
 <br><br>
-
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <a href="https://github.com/SXXNHU/github-readme-stats"> 
+    <br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeontachi&theme=transparent" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yeontachi&theme=transparent" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yeontachi&theme=transparent" />
+  </a>
+  
+</div>
+<br><br>
 <div align="center">
   <a href="mailto:yeonjjhh@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -32,5 +41,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
+
+
 
 
